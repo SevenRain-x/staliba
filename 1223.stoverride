@@ -1,11 +1,11 @@
 name: 规则覆写
 desc: 加载自动路由规则
 
-profile:
+profile: #!replace
     store-selected: false
     tracing: false
     store-fake-ip: false
-dns:
+dns: #!replace
     enable: true
     ipv6: false
     listen: '0.0.0.0:1053'
@@ -17,7 +17,7 @@ dns:
     fake-ip-filter: ['*.lan', localhost.ptlogin2.qq.com, dns.msftncsi.com, '*.srv.nintendo.net', '*.stun.playstation.net', 'xbox.*.microsoft.com', '*.xboxlive.com']
     fallback: [1.1.1.1, 8.8.8.8]
     fallback-filter: { geoip: true, geoip-code: CN, ipcidr: [240.0.0.0/4] }
-proxy-groups:#!replace
+proxy-groups: #!replace
   - name: 🚀 节点选择
     type: select
     proxies:
