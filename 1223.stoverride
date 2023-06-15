@@ -26,6 +26,9 @@ proxy-groups: #!replace
       - 【A】台湾  VIP 1 - 中华电信
       - 【A】台湾  VIP 2 - 云高
       - 【A】台湾  VIP 3 - 中华电信
+      - 【A】香港  VIP 1      - 【A】台湾  VIP 1 - 中华电信
+      - 【A】台湾  VIP 2 - 云高
+      - 【A】台湾  VIP 3 - 中华电信
       - 【A】香港  VIP 1 - Nearoute
       - 【A】香港  VIP 3 - Nearoute
       - 【A】香港  VIP 5 - Leaseweb
@@ -664,11 +667,6 @@ proxy-groups: #!replace
       - 【N】日本 VIP E - Leaseweb
       - 【N】日本 VIP F - Leaseweb
       - 【N】日本 VIP G - Leaseweb
-      - 【N】日本 普通 1 - Nerocloud
-      - 【N】日本 普通 2 - Nerocloud
-      - 【N】日本 普通 3 - Nerocloud
-      - 【N】日本 普通 4 - Nerocloud
-      - 【N】日本 普通 5 - Nerocloud
   - name: 📢 谷歌FCM
     type: select
     proxies:
