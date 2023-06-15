@@ -296,17 +296,17 @@ proxy-groups: #!replace
       - 【IEPL】香港 普通 5 - Nearoute
       - 【IEPL】香港 普通 6 - Nearoute
       - 【IEPL】香港 普通 7 - Nearoute
-      - 【I】日本 VIP 1 - Azure
-      - 【I】日本 VIP 2 - Azure
-      - 【I】日本 VIP 3 - Azure
-      - 【I】日本 VIP 4 - Azure
-      - 【I】日本 VIP 5 - Azure
-      - 【I】日本 VIP 6 - Azure
-      - 【I】日本 VIP 7 - Azure
-      - 【I】日本 VIP 8 - Azure
-      - 【I】日本 VIP 9 - Azure
-      - 【I】日本 VIP A - Azure
-      - 【I】日本 VIP B - Azure
+      - 【I】日本 VIP 1 - chatGPT
+      - 【I】日本 VIP 2 - chatGPT
+      - 【I】日本 VIP 3 - chatGPT
+      - 【I】日本 VIP 4 - chatGPT
+      - 【I】日本 VIP 5 - chatGPT
+      - 【I】日本 VIP 6 - chatGPT
+      - 【I】日本 VIP 7 - chatGPT
+      - 【I】日本 VIP 8 - chatGPT
+      - 【I】日本 VIP 9 - chatGPT
+      - 【I】日本 VIP A - chatGPT
+      - 【I】日本 VIP B - chatGPT
       - 【I】蒙古 普通 A - MN
       - 【J】香港 VIP 1 - Netflix
       - 【J】香港 VIP 2 - Netflix
@@ -329,20 +329,20 @@ proxy-groups: #!replace
       - 【K】新加坡 普通 5 - DO
       - 【K】新加坡 普通 6 - DO
       - 【K】新加坡 普通 7 - DO
-      - 【L】新加坡  VIP1 - Netflix
-      - 【L】新加坡  VIP2 - Netflix
-      - 【L】新加坡  VIP3 - Netflix
-      - 【L】新加坡  VIP4 - Netflix
-      - 【L】新加坡  VIP5 - Netflix
-      - 【L】新加坡  VIP6 - Netflix
-      - 【L】新加坡  VIP7 - Netflix
-      - 【L】新加坡  VIP8 - Netflix
-      - 【L】新加坡  VIP9 - Netflix
-      - 【L】新加坡  VIPA - Netflix
+      - 【L】新加坡  VIP1 - chatGPT
+      - 【L】新加坡  VIP2 - chatGPT
+      - 【L】新加坡  VIP3 - chatGPT
+      - 【L】新加坡  VIP4 - chatGPT
+      - 【L】新加坡  VIP5 - chatGPT
+      - 【L】新加坡  VIP6 - chatGPT
+      - 【L】新加坡  VIP7 - chatGPT
+      - 【L】新加坡  VIP8 - chatGPT
+      - 【L】新加坡  VIP9 - chatGPT
+      - 【L】新加坡  VIPA - chatGPT
       - 【L】马来西亚  VIP 1 - TMNet
       - 【M】香港  VIP F - Leaseweb
       - 【M】香港  VIP H - Leaseweb
-      - 【M】香港  VIP I - Nearoute
+      - 【M】香港  VIP I - chatGPT
       - 【M】香港 VIP 1 - Netflix
       - 【M】香港 VIP 2 - Netflix
       - 【M】香港 VIP 3 - Netflix
@@ -355,8 +355,8 @@ proxy-groups: #!replace
       - 【M】香港 VIP A - Leaseweb
       - 【M】香港 VIP B - Leaseweb
       - 【M】香港 VIP C - Leaseweb
-      - 【M】香港 VIP D - Nearoute
-      - 【M】香港 VIP K - Nearoute
+      - 【M】香港 VIP D - chatGPT
+      - 【M】香港 VIP K - chatGPT
       - 【M】香港 VIP T - Leaseweb
       - 【M】香港 VIP X - Leaseweb
       - 【M】香港 VIP Z - Leaseweb
@@ -502,17 +502,17 @@ proxy-groups: #!replace
       - 【IEPL】香港 普通 5 - Nearoute
       - 【IEPL】香港 普通 6 - Nearoute
       - 【IEPL】香港 普通 7 - Nearoute
-      - 【I】日本 VIP 1 - Azure
-      - 【I】日本 VIP 2 - Azure
-      - 【I】日本 VIP 3 - Azure
-      - 【I】日本 VIP 4 - Azure
-      - 【I】日本 VIP 5 - Azure
-      - 【I】日本 VIP 6 - Azure
-      - 【I】日本 VIP 7 - Azure
-      - 【I】日本 VIP 8 - Azure
-      - 【I】日本 VIP 9 - Azure
-      - 【I】日本 VIP A - Azure
-      - 【I】日本 VIP B - Azure
+      - 【I】日本 VIP 1 - chatGPT
+      - 【I】日本 VIP 2 - chatGPT
+      - 【I】日本 VIP 3 - chatGPT
+      - 【I】日本 VIP 4 - chatGPT
+      - 【I】日本 VIP 5 - chatGPT
+      - 【I】日本 VIP 6 - chatGPT
+      - 【I】日本 VIP 7 - chatGPT
+      - 【I】日本 VIP 8 - chatGPT
+      - 【I】日本 VIP 9 - chatGPT
+      - 【I】日本 VIP A - chatGPT
+      - 【I】日本 VIP B - chatGPT
       - 【I】蒙古 普通 A - MN
       - 【J】香港 VIP 1 - Netflix
       - 【J】香港 VIP 2 - Netflix
@@ -535,20 +535,20 @@ proxy-groups: #!replace
       - 【K】新加坡 普通 5 - DO
       - 【K】新加坡 普通 6 - DO
       - 【K】新加坡 普通 7 - DO
-      - 【L】新加坡  VIP1 - Netflix
-      - 【L】新加坡  VIP2 - Netflix
-      - 【L】新加坡  VIP3 - Netflix
-      - 【L】新加坡  VIP4 - Netflix
-      - 【L】新加坡  VIP5 - Netflix
-      - 【L】新加坡  VIP6 - Netflix
-      - 【L】新加坡  VIP7 - Netflix
-      - 【L】新加坡  VIP8 - Netflix
-      - 【L】新加坡  VIP9 - Netflix
-      - 【L】新加坡  VIPA - Netflix
+      - 【L】新加坡  VIP1 - chatGPT
+      - 【L】新加坡  VIP2 - chatGPT
+      - 【L】新加坡  VIP3 - chatGPT
+      - 【L】新加坡  VIP4 - chatGPT
+      - 【L】新加坡  VIP5 - chatGPT
+      - 【L】新加坡  VIP6 - chatGPT
+      - 【L】新加坡  VIP7 - chatGPT
+      - 【L】新加坡  VIP8 - chatGPT
+      - 【L】新加坡  VIP9 - chatGPT
+      - 【L】新加坡  VIPA - chatGPT
       - 【L】马来西亚  VIP 1 - TMNet
       - 【M】香港  VIP F - Leaseweb
       - 【M】香港  VIP H - Leaseweb
-      - 【M】香港  VIP I - Nearoute
+      - 【M】香港  VIP I - chatGPT
       - 【M】香港 VIP 1 - Netflix
       - 【M】香港 VIP 2 - Netflix
       - 【M】香港 VIP 3 - Netflix
@@ -561,8 +561,8 @@ proxy-groups: #!replace
       - 【M】香港 VIP A - Leaseweb
       - 【M】香港 VIP B - Leaseweb
       - 【M】香港 VIP C - Leaseweb
-      - 【M】香港 VIP D - Nearoute
-      - 【M】香港 VIP K - Nearoute
+      - 【M】香港 VIP D - chatGPT
+      - 【M】香港 VIP K - chatGPT
       - 【M】香港 VIP T - Leaseweb
       - 【M】香港 VIP X - Leaseweb
       - 【M】香港 VIP Z - Leaseweb
@@ -631,17 +631,17 @@ proxy-groups: #!replace
     proxies:
       - 🚀 节点选择
       - DIRECT
-      - 【I】日本 VIP 1 - Azure
-      - 【I】日本 VIP 2 - Azure
-      - 【I】日本 VIP 3 - Azure
-      - 【I】日本 VIP 4 - Azure
-      - 【I】日本 VIP 5 - Azure
-      - 【I】日本 VIP 6 - Azure
-      - 【I】日本 VIP 7 - Azure
-      - 【I】日本 VIP 8 - Azure
-      - 【I】日本 VIP 9 - Azure
-      - 【I】日本 VIP A - Azure
-      - 【I】日本 VIP B - Azure
+      - 【I】日本 VIP 1 - chatGPT
+      - 【I】日本 VIP 2 - chatGPT
+      - 【I】日本 VIP 3 - chatGPT
+      - 【I】日本 VIP 4 - chatGPT
+      - 【I】日本 VIP 5 - chatGPT
+      - 【I】日本 VIP 6 - chatGPT
+      - 【I】日本 VIP 7 - chatGPT
+      - 【I】日本 VIP 8 - chatGPT
+      - 【I】日本 VIP 9 - chatGPT
+      - 【I】日本 VIP A - chatGPT
+      - 【I】日本 VIP B - chatGPT
       - 【N】日本 VIP 1 - Nerocloud
       - 【N】日本 VIP 10 - Nerocloud
       - 【N】日本 VIP 11 - Nerocloud
@@ -664,6 +664,11 @@ proxy-groups: #!replace
       - 【N】日本 VIP E - Leaseweb
       - 【N】日本 VIP F - Leaseweb
       - 【N】日本 VIP G - Leaseweb
+      - 【N】日本 普通 1 - Nerocloud
+      - 【N】日本 普通 2 - Nerocloud
+      - 【N】日本 普通 3 - Nerocloud
+      - 【N】日本 普通 4 - Nerocloud
+      - 【N】日本 普通 5 - Nerocloud
   - name: 📢 谷歌FCM
     type: select
     proxies:
