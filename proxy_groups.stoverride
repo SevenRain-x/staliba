@@ -1,4 +1,4 @@
-name: 规则覆写
+name: proxy-groups
 desc: 加载自动路由规则
 
 proxy-groups: #!replace
