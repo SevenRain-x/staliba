@@ -1,0 +1,19 @@
+name: 规则覆写
+desc: 加载自动路由规则
+
+profile: #!replace
+    store-selected: false
+    tracing: false
+    store-fake-ip: false
+dns: #!replace
+    enable: true
+    ipv6: false
+    listen: '0.0.0.0:1053'
+    enhanced-mode: fake-ip
+    fake-ip-range: 198.18.0.1/16
+    use-hosts: true
+    default-nameserver: [119.29.29.29, 223.5.5.5]
+    nameserver: ['https://doh.pub/dns-query', 'https://dns.alidns.com/dns-query']
+    fake-ip-filter: ['*.lan', localhost.ptlogin2.qq.com, dns.msftncsi.com, '*.srv.nintendo.net', '*.stun.playstation.net', 'xbox.*.microsoft.com', '*.xboxlive.com']
+    fallback: [1.1.1.1, 8.8.8.8]
+    fallback-filter: { geoip: true, geoip-code: CN, ipcidr: [240.0.0.0/4] }
