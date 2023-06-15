@@ -1,4 +1,4 @@
-name: 规则覆写
+name: Head
 desc: 加载自动路由规则
 
 profile: #!replace
