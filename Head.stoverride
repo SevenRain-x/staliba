@@ -1,11 +1,11 @@
 name: Head
 desc: 加载自动路由规则
 
-profile: #!replace
+profile:
     store-selected: false
     tracing: false
     store-fake-ip: false
-dns: #!replace
+dns:
     enable: true
     ipv6: false
     listen: '0.0.0.0:1053'
